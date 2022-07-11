@@ -8,7 +8,7 @@
 
 <div>
 <a href="https://instagram.com/diovana.x1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "diovanavytoria06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "diovanavytoria06@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/0/#inbox)" target="_blank"></a>
 <a href="h
   
 <!--
