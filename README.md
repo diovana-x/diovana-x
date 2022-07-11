@@ -3,13 +3,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diovana-x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diovana-x&langs_count=7&theme=dracula"/>
 </div>
-
-### Contatos:
-
-<div>
-
-<a href = "diovanavytoria06@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/0/#inbox)" target="_blank"></a>
-
   
 <!--
 **diovana-x/diovana-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
