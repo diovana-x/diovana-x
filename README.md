@@ -1,5 +1,12 @@
 ## Olá, me chamo Diovana ! 
 ### Bem vindo ao meu perfil GitHub 👋
+
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<i class="devicon-javascript-plain colored"></i> <i class="devicon-java-plain-wordmark colored"></i>
+
+
 <!--
 **diovana-x/diovana-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
