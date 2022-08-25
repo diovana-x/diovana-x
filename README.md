@@ -3,7 +3,7 @@ Oiê ✋
 - Me chamo Diovana :)
 - Sou atualmente estudante do ensino medio de Técnico em informática no IFPR! 
 
-Uma boa navegação pelos repositórios abaixo🤝
+Caso queira, fique a vontade pra navegar nos repositórios abaixo:🤝
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
