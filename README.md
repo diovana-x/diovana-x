@@ -3,9 +3,9 @@ Oiê ✋
 - Me chamo Diovana :)
 - Sou atualmente estudante do ensino medio de Técnico em informática no IFPR! 
 
-Fique a vontade para navegar pelos repositórios 🤝
+Uma boa navegação pelos repositórios abaixo🤝
 
-]<div>
+<div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diovana-x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diovana-x&langs_count=7&theme=dracula"/>
