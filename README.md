@@ -1,6 +1,7 @@
-Oiê ✋.              Seja bem vindo ao meu perfil aqui no Github
-                                Me chamo Diovana :)
-Sou atualmente estudante do ensino medio de Técnico em informática no IFPR! 
+Oiê ✋   
+- Seja bem vindo ao meu perfil aqui no Github
+- Me chamo Diovana :)
+- Sou atualmente estudante do ensino medio de Técnico em informática no IFPR! 
 Fique a vontade para navegar pelos repositórios 🤝
 
 ]<div>
